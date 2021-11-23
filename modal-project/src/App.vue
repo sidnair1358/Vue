@@ -1,6 +1,8 @@
 <template>
-  <h1>{{ title }}</h1>
-  <Modal />
+  <div>
+    <h1>{{ title }}</h1>
+    <Modal />
+  </div>
 </template>
 
 <script>
